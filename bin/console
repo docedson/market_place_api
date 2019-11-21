@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'bundler/setup'
+require 'application_experience_public_api'
+
+require 'pry'
+Pry.start
